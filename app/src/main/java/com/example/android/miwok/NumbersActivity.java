@@ -38,7 +38,7 @@ public class NumbersActivity extends AppCompatActivity {
         words[7] = "eight";
         words[8] = "nine";
         words[9] = "ten";
-
+        
         // Verify the contents of the array by printing out each array element to the logs
         Log.v("NumbersActivity", "Word at index 0: " + words[0]);
         Log.v("NumbersActivity", "Word at index 1: " + words[1]);
